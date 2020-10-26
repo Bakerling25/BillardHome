@@ -1,0 +1,13 @@
+CSS Cascading style sheet
+
+- speci.. regel:
+	- Fælles regler for html omkring styling altså hvordan den ser ud.
+	- Med "." er klasser
+	- Med "#" er id'et.
+
+-jo mere specifikt man er jo højere rangere prioteten. {(1)inlign;
+							(2)ID;
+							(3)Class".";
+							(4)tag}.
+
+ 	
